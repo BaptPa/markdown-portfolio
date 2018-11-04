@@ -1,16 +1,16 @@
 * Hobbies
   * Food :bento:
-  * Wine :wine_glass: :grapes:
+  * __Wine__ :wine_glass: :grapes:
   * <*Web development*>
-  * Learning
+  * __Learning__
   * Home decorating
 
 * Passions
-  * Cooking
-  * Music, listen :headphones: and creation :guitar:
+  * __Cooking__
+  * __Music__, listen :headphones: and creation :guitar:
   * Astronomy :telescope:
-  * Physics 
+  * __Physics__
   * Garden :seedling:
-  * Cinema and video games :clapper:
+  * __Cinema__ and video games :clapper:
 
   
